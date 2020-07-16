@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Xiaoyu Shi's Portfolio
+Hey there! Welcome. 
+This is my portfolio for the CMU Course Telling Story with Data. Here, I will document my learning process and coursework, including data visualization critique, workshop materials, and my final project.
 
-You can use the [editor on GitHub](https://github.com/IvyShaw/TellingStory_portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## About me
+I'm a graduating master student from METALS Program, Human-Computer Interaction Institute @ Carnegie Mellon University. During the WFH period, I worked, played and worked out at home. This has already been the **fourth** month since I started to workout everyday!
+<br>Before I changed my career path to **UX Design**, I was a tech person who engaged in learning Computer Science. I dedicate in not only developing good tools for people, but also designing the ways that it can benefit people.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name **Xiaoyu** pronouns as similar as **Shall you**. You may call my English name Ivy as well.
 
-### Markdown
+## My interests
+I like innovation more than conventions. For example, I enjoy creating new dishes in my kitchen and hate follow the recipes (although it's the primary learning resource for cooking. Besides, I'm interested in writing stories more than reading novels.
+In terms of this course, I hope to build my aesthetics in data visualization and learn how to design data formats for presentation. I believe it will empower my deisgn capability in data area.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## My career plan
+I'm hunting jobs that are related to UX Designer now! If you are interested in my work, feel free to contact me. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IvyShaw/TellingStory_portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---Thank you for reading---
