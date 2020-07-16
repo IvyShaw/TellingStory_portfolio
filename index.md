@@ -23,3 +23,5 @@ I'm hunting jobs that are related to UX Designer now! If you are interested in m
 ### Chart 2
 <div class="flourish-embed flourish-chart" data-src="visualisation/3191748" data-url="https://flo.uri.sh/visualisation/3191748/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 ### Chart 3
+Goal of the visualization:
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/3191984" data-url="https://flo.uri.sh/visualisation/3191984/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
