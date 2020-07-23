@@ -26,7 +26,6 @@ Source: OECD Data: General government debt [https://data.oecd.org/gga/general-go
 ### Chart 3
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/3191984" data-url="https://flo.uri.sh/visualisation/3191984/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Finally, use Markdown to write a paragraph or two about the different methods of visualization, and how they compare / contrast to one another. Make sure you include all source information and explain the data well.  Talk about why you chose the third data visualization. 
 Goal of the visualization: Compare between countries & highlight United States, United Kingdom and Canada
 
 Upon the above three charts, Chart 1 utilized map to make the geographical information obvious, and make contrast between countries through the size of dots. Chart 2 grouped the Debt-to-GDP values by countries using a line to display yearly changes. Chart 3 ranks the Debt-to-GDP values from high to low, and uses a filter to select a specific year.
