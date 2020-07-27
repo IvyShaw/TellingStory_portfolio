@@ -58,7 +58,7 @@ I would like to re-order the bars according to the statement and descriptions. T
 In this version I ranked the data by percentage, and suprisingly find out that the activities in the same category are clustered. Therefore, I split the activities into three types: ux design, ux research, and technical and mangement work.
 
 **Testing with people:**<br>
-* audience 1: junior ux designer 
+* **audience 1:**<br> junior ux designer 
 The chart is good, but too much information are presented at the same time. She hopes to see separate charts and each one only used for one single purpose.
  Besides, she doesn't understand what's the relationship between "End-to-end design" on the title and the data in this chart, since there's no corresponding words or description about them.
  <br>This let me realize that I need to keep the terms consistent. Therefore I decide not to combine ux design and ux research into one category: **End-to-end design**
@@ -66,7 +66,7 @@ The chart is good, but too much information are presented at the same time. She 
  ### Version 2
  ![Design process chart](./assignment_3/ver2.png)
  ![Design process chart](./assignment_3/ver2_2.png)
- * audience 2: student whose major little related to ux design
+ * **audience 2**:<br> student whose major little related to ux design
  From the title, she assumes that the chart is telling her about the importance of e2e design, but in the chart, she is confused by so many activities. Since she is not familar with the activities of design process, she failed to match the activities with categories.
  Besides, she tells me that there's lack of highlighted information in the text part as well as the corresponding relationship. She cannot find the bars that text has talked about.<br>
  
@@ -74,13 +74,16 @@ The chart is good, but too much information are presented at the same time. She 
  1. design activities takes a large proportion than product mangement and techinical implementation <br>("designers are highly involved in the e2e design process starting from research to design delivery ")
  2. inside the e2e design process, participation of research activities are less than ui&ux design activities <br>("But there is still some gap (15-20% less) between defining requirements, conducting research and testing. ")
  3. the participation of technical and management work is not that rare. 
- <br>("A decent number of participants are involved in project/design management (41.7%), data analysis (31.2%), and product development (18.8%).")
- These three purpose can be fullfilled by two charts. One for a comparison of participation rate between two categories: e2e design, other work. Another chart to highlight the gap between ux design and ux research inside the e2e design process.
+ <br>("A decent number of participants are involved in project/design management (41.7%), data analysis (31.2%), and product development (18.8%).") <br>
+ These three purpose can be fullfilled by two charts. One for a comparison of participation rate between two categories: e2e design, other work. Another chart to highlight the gap between ux design and ux research inside the e2e design process.<br>
  However, the 3rd point here seems not applicable. "Decent" is hard to define without a comparison of previous data.
  
  ### Version 3
  a new column is added
   ![Design process chart](./assignment_3/chart_data.png)
+  **Chart 1**
   <div class="flourish-embed flourish-hierarchy" data-src="visualisation/3304643" data-url="https://flo.uri.sh/visualisation/3304643/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
  
+ **Chart 2**
+   ![Design process chart](./assignment_3/ver3_2.png)
  
