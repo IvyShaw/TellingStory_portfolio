@@ -17,6 +17,12 @@ I'm hunting jobs that are related to UX Designer now! If you are interested in m
 
 ---Thank you for reading---
 
+## Coursework
+[Assignment 2](/dataviz2.md)
+
+[Assignment 3 and 4](/dataviz3.md)
+
+
 ## Workshop 1
 ### Chart 1
 <iframe src="https://data.oecd.org/chart/61Rz" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/61Rz" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
