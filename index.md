@@ -1,6 +1,6 @@
 # Xiaoyu Shi's Portfolio
 Hey there! Welcome. 
-This is my portfolio for the CMU Course Telling Story with Data. Here, I will document my learning process and coursework, including data visualization critique, workshop materials, and my final project.
+This is my portfolio for the CMU Course Telling Story with Data. Here, I will document my learning process and coursework, including data visualization critique, workshop materials, and my final project. The link is [here]( https://ivyshaw.github.io/TellingStory_portfolio/)
 
 ## About me
 I'm a graduating master student from METALS Program, Human-Computer Interaction Institute @ Carnegie Mellon University. During the WFH period, I worked, played and worked out at home. This has already been the **fourth** month since I started to workout everyday!
