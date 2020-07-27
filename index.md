@@ -20,5 +20,5 @@ I'm hunting jobs that are related to UX Designer now! If you are interested in m
 ## Coursework
 [Assignment 2](/dataviz2.md)
 
-[Assignment 3 and 4](/dataviz3.md)
+[Assignment 3 and 4](./dataviz3.md)
 
