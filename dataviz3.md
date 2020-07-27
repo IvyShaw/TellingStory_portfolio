@@ -80,7 +80,7 @@ The chart is good, but too much information are presented at the same time. She 
  
  ### Version 3
  a new column is added
-  ![Design process chart](./assignment_3/UXchart.png)
+  ![Design process chart](./assignment_3/chart_data.png)
   **Chart 1**
   <div class="flourish-embed flourish-hierarchy" data-src="visualisation/3304643" data-url="https://flo.uri.sh/visualisation/3304643/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
  
