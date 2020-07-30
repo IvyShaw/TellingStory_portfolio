@@ -22,3 +22,5 @@ I'm hunting jobs that are related to UX Designer now! If you are interested in m
 
 [Assignment 3 and 4](./dataviz3.md)
 
+
+[Final Project](./Final_Project/final_project.md)
