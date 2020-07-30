@@ -3,11 +3,11 @@ In the final project, I will write a story about fun facts behind pet raising st
 What's the cost and satisfaction behind these decisions. 
 ### Project Outline
 * Introduction
-** Chart1: number of families that own pets
-** Chart2: cat/dog dominating states
+Chart1: number of families that own pets<br>
+Chart2: cat/dog dominating states
 * Fascinating facts
-** Chart3: number of domestic pets
-** Chart4: number of dogs/cats raised per household
+Chart3: number of domestic pets<br>
+Chart4: number of dogs/cats raised per household
 * Ending
 
 ### Tool
@@ -42,7 +42,7 @@ Since I didn't have a clear structure at the beginning, I didn't ask the first a
  
  ### To-do-Next
  * Continuing on revising the story:
- ** Conduct more tests on the storyline
- ** Revise and condense contents
+Conduct more tests on the storyline<br>
+Revise and condense contents
  * Implement charts in Tableau and Infogram
  * Write story in Shorthand
