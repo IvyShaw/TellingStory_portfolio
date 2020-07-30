@@ -40,7 +40,7 @@ Since I didn't have a clear structure at the beginning, I didn't ask the first a
 **Version 2**
  ![iteration2](./v2.png)
  
- ### To-do-Next
+### To-do-Next
  * Continuing on revising the story:
 Conduct more tests on the storyline<br>
 Revise and condense contents
