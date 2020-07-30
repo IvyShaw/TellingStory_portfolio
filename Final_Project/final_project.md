@@ -31,14 +31,14 @@ Since I didn't have a clear structure at the beginning, I didn't ask the first a
 
 ### Prototype & User Research Feedback
 **Version 1**
- ![iteration1](./Final_Project/v1.png)
+ ![iteration1](./v1.png)
  Feedback
  * The map diagram is confusing due to multiple colors without explanation.
  * The map diagram doesn't make sense to people. I don't know why it needs to be here.
  * For the third chart, would be better if adjust the cat image to a smaller size, which can indicate the difference of body size between cats and dogs.
  * The charts are beautiful but lack of theme.
 **Version 2**
- ![iteration2](./Final_Project/v2.png)
+ ![iteration2](./v2.png)
  
  ### To-do-Next
  * Continuing on revising the story:
